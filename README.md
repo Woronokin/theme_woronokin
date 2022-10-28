@@ -6,3 +6,7 @@
 + [wpDiscuz](https://wpdiscuz.com)
 + [Yoast SEO](https://yoast.com/wordpress/plugins/seo/)
 + [SimpLy Gallery Block & Lightbox](https://simplygallery.co/)
+--- 
+### Используемые шрифты 
++ [Montserrat](https://fonts.google.com/specimen/Montserrat?query=Montserrat)
++ [SourceSansPro](https://fonts.google.com/specimen/Source+Sans+Pro?query=Source+Sans+Pro)
