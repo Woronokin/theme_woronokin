@@ -4,65 +4,6 @@
 <head>
     <meta charset="<?php bloginfo('charset'); ?>">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <script type="application/ld+json">
-        {
-            "@context": "http://schema.org",
-            "@type": "Organization",
-            "name": "Nikonorow.ru",
-            "url": "https://nikonorow.ru",
-            "sameAs": [
-                "https://woronokin.site",
-                "https://woronokin.ru",
-                "https://vk.com/woronokin",
-                "https://vk.com/id235909260",
-                "https://t.me/woronokin",
-                "https://woronokin.tumblr.com",
-                "https://github.com/woronokin/",
-                "https://www.deviantart.com/linewery",
-                "https://mynickname.com/woronokin",
-                "https://www.freelancer.com/u/Woronokin",
-                "https://about.me/nikonorov",
-                "https://www.tiktok.com/@woronokin",
-                "https://www.youtube.com/channel/UCdJ2-hvxbCfCJsC-t4_0H1g/"
-            ]
-        }
-    </script>
-
-    <!-- Yandex.Metrika counter -->
-    <script type="text/javascript">
-        (function(m, e, t, r, i, k, a) {
-            m[i] = m[i] || function() {
-                (m[i].a = m[i].a || []).push(arguments)
-            };
-            m[i].l = 1 * new Date();
-            k = e.createElement(t), a = e.getElementsByTagName(t)[0], k.async = 1, k.src = r, a.parentNode.insertBefore(k, a)
-        })
-        (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
-
-        ym(68498098, "init", {
-            clickmap: true,
-            trackLinks: true,
-            accurateTrackBounce: true,
-            webvisor: true
-        });
-    </script>
-    <noscript>
-        <div><img src="https://mc.yandex.ru/watch/68498098" style="position:absolute; left:-9999px;" alt="" /></div>
-    </noscript>
-    <!-- /Yandex.Metrika counter -->
-
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-H7YTF54DNV"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
-
-        function gtag() {
-            dataLayer.push(arguments);
-        }
-        gtag('js', new Date());
-
-        gtag('config', 'G-H7YTF54DNV');
-    </script>
     <?php wp_head(); ?>
 </head>
 
