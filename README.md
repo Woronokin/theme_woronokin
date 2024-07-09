@@ -1,4 +1,4 @@
-# Theme_Woronokin (W_Site)
+# Theme_Woronokin (W_Site) - УСТАРЕЛО! (сейчас тема обновлена и код улучшен в разы)
 Тема создана специально для сайта **[nikonorow.ru](https://nikonorow.ru)** и используется на нем в качестве основного шаблона сайта WordPress.<br> 
 Шаблон заточен под работу с плагинами wpDiscuz и Yoast SEO, в качестве  галереи используется плагин SimpLy Gallery Block & Lightbox.
 Читать подробнее о создании шаблона и посмотреть его в действии: **[nikonorow.ru](https://nikonorow.ru/web-development-site-redesign-rebuild-nikonorow-ru/)**
